@@ -1,5 +1,5 @@
 Hi, I’m Ronald, a Computer Science student at San Jose State University.
-Personal Portfolio: https://roncodes88.github.io/PersonalPortfolio/
+Personal Portfolio: ronaldli.xyz
 Email: ronald.yihao@gmail.com
 LinkedIn: www.linkedin.com/in/ronaldliyh
 
