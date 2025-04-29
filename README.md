@@ -1,5 +1,5 @@
 <h1 align="center">👋 HI, I'M RONALD LI </h1>
-<h3 align="center">SOFTWARE ENGINEER 💻</h3>
+<h3 align="center">💻 SOFTWARE ENGINEER</h3>
 
 - 👨‍💻 All of my projects are available at [ronaldli.xyz](https://www.ronaldli.xyz)
 
