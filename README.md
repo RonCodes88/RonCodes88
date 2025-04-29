@@ -1,7 +1,7 @@
 <h1 align="center">👋 HI, I'M RONALD LI </h1>
 <h3 align="center">SOFTWARE ENGINEER 💻</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.ronaldli.xyz" target="_blank">ronaldli.xyz</a>
+- 👨‍💻 All of my projects are available at [ronaldli.xyz](https://www.ronaldli.xyz)
 
 - 📫 How to reach me **ronald.yihao@gmail.com**
 
