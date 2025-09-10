@@ -15,8 +15,8 @@ Computer Science major at San Jose State University | Open Source Contributor & 
 
 ## Key Projects
 - 🏆 **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
-- 🥇 **Best Startup Track Winner** – **MarketMind**: All-in-one platform for marketing, content generation, creator outreach & website builder  
-- 🥉 **3rd Place** – **OpsPilot**: DevOps automation platform reducing cloud setup from weeks to minutes  
+- 🥇 **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
+- 🥉 **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes  
 - ⚕️ **InstaCare**: RAG-powered healthcare web app serving senior care facilities to reduce human errors and cut emergency response times
 
 ## 📫 Connect with me
