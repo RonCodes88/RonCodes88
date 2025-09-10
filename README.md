@@ -18,9 +18,9 @@ Computer Science major at San Jose State University | Open Source Contributor & 
 - 🥇 **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
 - 🥉 **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes  
 - ⚕️ **InstaCare**: RAG-powered healthcare web app serving senior care facilities to reduce human errors and cut emergency response times
+- **🔗 More projects in my portfolio**: [ronaldli.xyz](https://www.ronaldli.xyz) 
 
-## 📫 Connect with me
-- Portfolio: [ronaldli.xyz](https://www.ronaldli.xyz)  
+## 📫 Contact me
 - Email: ronald.yihao@gmail.com
 - LinkedIn: [linkedin.com/in/ronaldliyh](https://linkedin.com/in/ronaldliyh)
 
