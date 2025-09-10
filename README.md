@@ -21,7 +21,7 @@ Computer Science major at San Jose State University | Open Source Contributor & 
 
 ## 📫 Connect with me
 - Portfolio: [ronaldli.xyz](https://www.ronaldli.xyz)  
-- Email: **ronald.yihao@gmail.com**  
+- Email: ronald.yihao@gmail.com
 - LinkedIn: [linkedin.com/in/ronaldliyh](https://linkedin.com/in/ronaldliyh)
 
 
