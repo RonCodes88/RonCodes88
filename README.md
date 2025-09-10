@@ -17,7 +17,7 @@ CS @ San Jose State University | Prev. CVS Health | Open Source Contributor & Re
 - 🏆 **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
 - 🥇 **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
 - 🥉 **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes  
-- ⚕️ **InstaCare**: RAG-powered healthcare web app serving senior care facilities to reduce human errors and cut emergency response times
+- ⚕️ **InstaCare**: RAG-powered healthcare web app serving senior care facilities to reduce human errors and emergency response times
 - **🔗 More projects in my portfolio**: [ronaldli.xyz](https://www.ronaldli.xyz) 
 
 ## 📫 Contact me
