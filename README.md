@@ -2,7 +2,7 @@
 <h2 align="center">💻 Software Engineer</h2>
 
 <h3 align="center">
-CS @ San Jose State University | Prev. CVS Health | Open Source Contributor & Research Assistant
+CS @ San Jose State University | Incoming @ Big Tech | Open Source Contributor & Research Assistant
 </h3>
 
 <h3 align="center">
