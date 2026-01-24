@@ -5,6 +5,10 @@
 CS @ San Jose State University | Prev. CVS Health | Open Source Contributor & Research Assistant
 </h3>
 
+<h3 align="center">
+  Building @ Leechy
+</h3>
+
 --- 
 
 ## Skills
