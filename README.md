@@ -12,7 +12,7 @@ CS @ San Jose State University || Open Source Contributor
 --- 
 
 ## Skills
-**Languages:** JavaScript, Python, TypeScript, Java, SQL, C, C++, Kotlin, Swift  
+**Languages:** Java, Python, JavaScript, TypeScript, SQL, C, C++, Kotlin, Swift  
 **Frameworks/Tools:** ReactJS, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind, gRPC, LangChain, LangGraph, Android SDK
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Supabase  
 **Cloud/DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
