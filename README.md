@@ -12,18 +12,20 @@ CS @ San Jose State University || Open Source Contributor
 --- 
 
 ## Skills
-**Languages:** Java, Python, JavaScript, TypeScript, SQL, C, C++, Kotlin, Swift  
-**Frameworks/Tools:** ReactJS, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind, gRPC, LangChain, LangGraph, Android SDK
+**Languages:** Kotlin, TypeScript, Python, Swift, Rust, Java, Python, SQL, C, C++
+**Mobile:** Jetpack Compose, React Native, Kotlin Multiplatform, SwiftUI
+**Frameworks/Tools:** ReactJS, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind, gRPC, LangChain, LangGraph
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Supabase  
 **Cloud/DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
 
 ## Key Projects
-- 🔒 **Hackathon Winner** – GraphGuard: Multi-agent platform for real-time network attack simulation, DDoS detection, and 3D threat visualization powered by LangGraph
-- 🏆 **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
-- 🥇 **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
-- 🥉 **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes
-- 🚢 **ShipSafe**: Multi-agent system that scans your code, detect vulnerabilities, and generate automated fixes for you
-- ⚕️ **InstaCare**: RAG-powered web app serving senior care facilities to reduce human errors and emergency response times
+- **Trick**: End-to-end encrypted offline messaging application written in Kotlin Multiplatform, Swift, and Rust
+- **Hackathon Winner** – GraphGuard: Multi-agent platform for real-time network attack simulation, DDoS detection, and 3D threat visualization powered by LangGraph
+- **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
+- **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
+- **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes
+- **ShipSafe**: Multi-agent system that scans your code, detect vulnerabilities, and generate automated fixes for you
+- **InstaCare**: RAG-powered web app serving senior care facilities to reduce human errors and emergency response times
 
 - **🔗 More projects in my portfolio**: [ronaldli.xyz](https://www.ronaldli.xyz) [DevPost](https://devpost.com/ronaldliyh)
 
