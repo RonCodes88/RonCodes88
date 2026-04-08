@@ -12,11 +12,11 @@ CS @ San Jose State University || Open Source Contributor
 --- 
 
 ## Skills
-**Languages:** Kotlin, TypeScript, Python, Swift, Rust, Java, Python, SQL, C, C++
-**Mobile:** Jetpack Compose, React Native, Kotlin Multiplatform, SwiftUI
-**Frameworks/Tools:** ReactJS, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind, gRPC, LangChain, LangGraph
+**Languages:** Kotlin, TypeScript, Python, Swift, Rust, Java, SQL, C, C++  
+**Mobile:** Jetpack Compose, React Native, Kotlin Multiplatform, SwiftUI  
+**Frameworks & Tools:** React.js, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind CSS, gRPC, LangChain, LangGraph  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Supabase  
-**Cloud/DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
 
 ## Key Projects
 - **Trick**: End-to-end encrypted offline messaging application written in Kotlin Multiplatform, Swift, and Rust
