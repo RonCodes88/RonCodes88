@@ -5,10 +5,6 @@
 CS @ San Jose State University || Open Source Contributor
 </h3>
 
-<h3 align="center">
-  Building @ Leechy
-</h3>
-
 --- 
 
 ## Skills
