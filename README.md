@@ -1,4 +1,4 @@
-# Hey, I'm Ronald 👋
+# hey, i'm ronald 👋
 
 ### **cs senior @ sjsu**
 *full stack, mobile, ai infra & distributed systems*
