@@ -8,14 +8,14 @@ CS @ San Jose State University || Open Source Contributor
 --- 
 
 ## Skills
-**Languages:** Kotlin, TypeScript, Python, Swift, Rust, Java, SQL, C, C++  
-**Mobile:** Jetpack Compose, React Native, Kotlin Multiplatform, SwiftUI  
+**Languages:** TypeScript, Python, Java, Go, Rust, Kotlin, Swift, SQL, C, C++  
+**Mobile:** React Native, Jetpack Compose, Kotlin Multiplatform, SwiftUI  
 **Frameworks & Tools:** React.js, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind CSS, gRPC, LangChain, LangGraph  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Supabase  
 **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
 
 ## Key Projects
-- **Trick**: End-to-end encrypted offline messaging application written in Kotlin Multiplatform, Swift, and Rust
+- **Trick (CSCSU 2026 Best Paper)**: End-to-end encrypted offline messaging application written in Kotlin Multiplatform, Swift, and Rust
 - **Hackathon Winner** – GraphGuard: Multi-agent platform for real-time network attack simulation, DDoS detection, and 3D threat visualization powered by LangGraph
 - **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
 - **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
