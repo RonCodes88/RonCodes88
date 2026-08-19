@@ -1,33 +1,29 @@
-<h1 align="center">👋 Hi! I'm Ronald Li</h1>
-<h2 align="center">💻 Software Engineer</h2>
+# Hey, I'm Ronald 👋
 
-<h3 align="center">
-CS @ San Jose State University || Open Source Contributor
-</h3>
+### **cs senior @ sjsu**
+*full stack, mobile, ai infra & distributed systems*
 
---- 
+---
 
-## Skills
-**Languages:** TypeScript, Python, Java, Go, Rust, Kotlin, Swift, SQL, C, C++  
-**Mobile:** React Native, Jetpack Compose, Kotlin Multiplatform, SwiftUI  
-**Frameworks & Tools:** React.js, Next.js, Spring Boot, FastAPI, Flask, Express.js, Tailwind CSS, gRPC, LangChain, LangGraph  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Supabase  
-**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Git, Linux  
+### tl;dr — places i've worked & built
+* **swe intern** @ okta *(agentic platform, event-driven architecture, patent pending)*
+* **backend intern** @ cvs health *(scaling backend infra)*
+* **founding eng** @ leechy *(b2b rental marketplace • 10k users, 50+ businesses)*
+* **apple mentee** *(1 of 9 selected at sjsu)*
+* **6x hackathon winner** *(uc davis, a10 networks, ai valley, sjsu sce)*
 
-## Key Projects
-- **Trick (CSCSU 2026 Best Paper)**: End-to-end encrypted offline messaging application written in Kotlin Multiplatform, Swift, and Rust
-- **Hackathon Winner** – GraphGuard: Multi-agent platform for real-time network attack simulation, DDoS detection, and 3D threat visualization powered by LangGraph
-- **1st Place** – **BizVision**: AI platform for blind business owners, real-time inventory & threat detection  
-- **Best Startup Track Winner** – **MarketMind**: One click marketing tool for burgeoning startups in any industry  
-- **3rd Place** – **OpsPilot**: All-in-one DevOps automation platform reducing cloud setup from weeks to minutes
-- **ShipSafe**: Multi-agent system that scans your code, detect vulnerabilities, and generate automated fixes for you
-- **InstaCare**: RAG-powered web app serving senior care facilities to reduce human errors and emergency response times
-
-- **🔗 More projects in my portfolio**: [ronaldli.xyz](https://www.ronaldli.xyz) [DevPost](https://devpost.com/ronaldliyh)
-
-## 📫 Contact me
-- Email: ronald.yihao@gmail.com
-- LinkedIn: [linkedin.com/in/ronaldliyh](https://linkedin.com/in/ronaldliyh)
+### built & shipped
+* **[trick](https://github.com/SJSU-CS-systems-group/trick)** — internet-less, e2e encrypted p2p messaging via ultra-low latency protocols + multi-hop routing  
+  *🏆 CSCSU 2026 Best Paper Runner-Up*
+* **[openagentlock](https://github.com/openagentlock/OpenAgentLock)** — deterministic agentic guardrails & evaluation test harness backed by cryptographic audit ledgers
+* **[shipsafe](https://github.com/RonCodes88/ShipSafe)** — autonomous multi-agent vulnerability scanner with AST-driven code parsing, patch generation & remediation
+* **[graphguard](https://github.com/RonCodes88/GraphGuard)** — real-time network attack simulation & 3d threat visualizer powered by langgraph *(2nd place)*
+* **[v-up](https://github.com/RonCodes88/V-UP)** — conversational learning engine tailored for neurodivergent, amputee, and deaf asl learners *(most creative track)*
+* **[bizvision](https://github.com/RonCodes88/BizVision)** — edge-cv & multi-agent system providing real-time inventory perception for visually impaired founders *(1st place)*
 
 
+### tech
+`typescript` / `python` / `rust` / `go` / `kotlin` / `swift` • `react` / `native` / `kmp` • `langchain` / `langgraph` • `aws` / `docker` / `k8s`
 
+### how to reach me
+[linkedin](https://linkedin.com/in/ronaldliyh) • [ronald.yihao@gmail.com](mailto:ronald.yihao@gmail.com) • [devpost](https://devpost.com/ronaldliyh) 
