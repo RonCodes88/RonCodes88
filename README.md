@@ -3,8 +3,6 @@
 ### **cs senior @ sjsu**
 *full stack, mobile, ai infra & distributed systems*
 
----
-
 ### tl;dr — some things i've done 
 * **swe intern** @ okta *(agentic platform, event-driven architecture, patent pending)*
 * **backend intern** @ cvs health *(scaling backend infra)*
