@@ -26,4 +26,4 @@
 `typescript` / `python` / `rust` / `go` / `kotlin` / `swift` • `langchain` / `langgraph` • `aws` / `docker` / `k8s`
 
 ### how to reach me
-[linkedin](https://linkedin.com/in/ronaldliyh) • [ronald.yihao@gmail.com](mailto:ronald.yihao@gmail.com) • [devpost](https://devpost.com/ronaldliyh)
+[linkedin](https://linkedin.com/in/ronaldliyh) • [ronald.yihao@gmail.com](mailto:ronald.yihao@gmail.com)
