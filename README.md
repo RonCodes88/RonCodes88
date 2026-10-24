@@ -2,10 +2,11 @@
 
 ### **cs senior @ sjsu**
 *full stack, distributed systems & agentic ai*
-interested in building reliable backend systems and making ai agents safe to run in production: runtime guardrails, agent evals, and infra
 
-### tl;dr: some things i've done 
-* **swe co-op** @ ibm *(evals for an agentic coding platform)*
+**research interests:** agent security & safety · runtime guardrails · agent & llm-judge evaluation · distributed systems
+
+### tl;dr: my past experiences 
+* **swe intern** @ ibm *(evals for an agentic coding platform)*
 * **swe intern** @ okta *(agentic platform, runtime guardrails, event-driven architecture, patent pending)*
 * **backend intern** @ cvs health *(scaling backend infra)*
 * **founding eng** @ leechy *(rental marketplace • 10k users, 50+ businesses)*
