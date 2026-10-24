@@ -3,7 +3,7 @@
 ### **cs senior @ sjsu**
 *full stack, distributed systems & agentic ai*
 
-**research interests:** agent security & safety · runtime guardrails · agent & llm-judge evaluation · distributed systems
+**research interests:** agent security & safety · runtime guardrails & monitoring · agent/llm-judge evals · formal guarantees for agents · applied cryptography · distributed systems
 
 ### tl;dr: my past experiences 
 * **swe intern** @ ibm *(evals for an agentic coding platform)*
